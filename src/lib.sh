@@ -2,3 +2,4 @@
 set -eu
 
 echo "fable-foreman"
+# guard against empty input
